@@ -1,0 +1,3 @@
+git init : ساختن مخزن گیت
+git add filename :  رفتن فایل به حالت استیج
+git commit -m "messege" : رفتن فایل به مخزن گیت با پیام خاص
